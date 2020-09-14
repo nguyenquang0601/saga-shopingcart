@@ -26,5 +26,4 @@ const productReducer = createSlice({
     },
   },
 });
-
 export const { name: sliceKey, actions, reducer } = productReducer;
